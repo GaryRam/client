@@ -1,0 +1,30 @@
+:root {
+    --primary-color: #BD632F;
+    --secondary-color: #D8973C;
+    --neutral-color: #D8C99B;
+    --neutral-dark: #273E47;
+    --accent-color: #A4243B;
+}
+
+.container {
+    background-color: var(--neutral-dark);
+}
+
+h1, h2 {
+    color: var(--primary-color);
+}
+
+h3 {
+    color: var(--secondary-color);
+}
+
+p {
+    color: var(--neutral-color);
+}
+
+.circle {
+    width: 100px;
+    height: 100px;
+    background-color: var(--accent-color);
+    border-radius: 50%;
+}
