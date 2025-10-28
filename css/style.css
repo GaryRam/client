@@ -28,3 +28,14 @@ p {
     background-color: var(--accent-color);
     border-radius: 50%;
 }
+
+img{
+    width: 2381px;
+    height: auto;
+}
+
+nav {
+    padding-top: 20px;
+    padding-bottom: 20px;
+    background-color: #273E47;
+}
