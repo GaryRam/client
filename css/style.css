@@ -29,16 +29,26 @@ p {
     border-radius: 50%;
 }
 
-img{
+/* img{
     width: 2381px;
     height: 700px;
-}
+} */
 
 nav {
-    background-color: #201e1a;
+    background-color: #c2ab7f;
     height: 100px;
 }
 
 p {
     font-size: 30px;
+}
+
+body {
+background-repeat: no-repeat;
+background-attachment: fixed;
+background-size: 2381px 700px;
+}
+
+.back{
+    background-color: #A4243B;
 }
