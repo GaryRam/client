@@ -31,11 +31,14 @@ p {
 
 img{
     width: 2381px;
-    height: auto;
+    height: 700px;
 }
 
 nav {
-    padding-top: 20px;
-    padding-bottom: 20px;
-    background-color: #273E47;
+    background-color: #201e1a;
+    height: 100px;
+}
+
+p {
+    font-size: 30px;
 }
