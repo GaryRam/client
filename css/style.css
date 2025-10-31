@@ -35,7 +35,7 @@ p {
 } */
 
 nav {
-    background-color: #c2ab7f;
+    background-color: #000000;
     height: 100px;
 }
 
@@ -46,7 +46,8 @@ p {
 body {
 background-repeat: no-repeat;
 background-attachment: fixed;
-background-size: 2381px 700px;
+background-position: top center;
+background-size: 100%;
 }
 
 .back{
