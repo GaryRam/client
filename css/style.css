@@ -20,6 +20,8 @@ h3 {
 
 p {
     color: var(--neutral-color);
+    font-size: 25px;
+    
 }
 
 .circle {
@@ -39,9 +41,6 @@ nav {
     height: 100px;
 }
 
-p {
-    font-size: 30px;
-}
 
 body {
 background-repeat: no-repeat;
